@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: atul springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ADHYAN MISHRA
+Implementation-Vendor-Id: com.java.atul.springboot
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/atul-springb
+ oot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
